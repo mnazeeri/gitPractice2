@@ -5,6 +5,6 @@ public class HappyBirthday {
 
 //I just have to come here to write something becuase Aysia says so:/
         
-       System.out.println("Happy birthday to whomever has birthday today") 
+       System.out.println("Happy birthday to whomever has birthday today");
     }
 }
